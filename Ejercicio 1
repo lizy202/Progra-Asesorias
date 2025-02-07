@@ -1,0 +1,7 @@
+numA = int(input("inserte el primer numero: "))
+numB = int(input("inserte el segundo numero: "))
+
+print("suma" , numA + numB)
+print("resta" , numA - numB)
+print("multiplicacion" , numA * numB)
+print("division" , numA / numB)
